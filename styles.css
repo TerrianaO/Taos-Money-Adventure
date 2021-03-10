@@ -1,0 +1,257 @@
+button:hover {
+    background-color: pink;
+    color: purple;
+    box-shadow: 0 5px 40px 0 rgba(10, 10, 10, 0.94), 0 17px 50px 0 rgba(10, 10, 10, 0.99);
+}
+
+h1 {
+    text-align: center;
+    text-shadow: 0 0 20px;
+    color: pink;
+}
+
+.intro {
+    height: 300px;
+    width: 1325px;
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+}
+
+.ibuttons {
+    display: flex;
+    justify-content: space-around;
+
+
+}
+
+h3 {
+    text-align: center;
+    text-shadow: 0 0 35px;
+    color: pink;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 0 0 35px;
+    color: pink;
+}
+
+h4 {
+    text-align: center;
+    text-shadow: 0 0 15px;
+    color: pink;
+}
+
+.introno {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    width: 1325px;
+    display: none;
+}
+
+.inopic {
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.iyespic {
+    width: 1300px;
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.introyes {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    width: 1325px;
+    display: none;
+    height: 500px;
+
+}
+
+.grabuttons {
+    display: flex;
+    justify-content: center;
+}
+
+.moneygrab {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    width: 1325px;
+    height: 150px;
+    display: none;
+}
+
+.temptations {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    width: 1325px;
+    height: 400px;
+    display: none;
+
+}
+
+.tempics {
+    display: flex;
+    width: 200px;
+    height: 300px;
+
+
+}
+
+.whygif {
+    width: 500px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.citizen {
+    width: 1325px;
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    display: none;
+}
+
+.tempdes {
+
+    width: 1325px;
+    height: 115px;
+    background-color: purple;
+    display: none;
+    justify-content: center;
+    margin: auto;
+
+}
+
+.message {
+    width: 1325px;
+    height: 80px;
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    display: none;
+
+}
+
+.messagedivs {
+    display: flex;
+    justify-content: space-around;
+    margin: 20px;
+
+
+}
+
+.messageshoe {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    height: 350px;
+}
+
+.messagephone {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    height: 350px;
+
+}
+
+.messagecat {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    height: 350px;
+}
+
+.shoem {
+    width: 400px;
+    height: 250px;
+}
+
+.phonem {
+    width: 400px;
+    height: 250px;
+}
+
+.catm {
+    width: 400px;
+    height: 250px;
+}
+
+.messageblock {
+    display: none;
+}
+
+body {
+    background-color: #d1d1e0;
+}
+
+.finalshoe {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    display: none;
+
+}
+
+.finalphone {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    display: none;
+}
+
+.finalcat {
+    background-color: purple;
+    border: 12px;
+    border-color: pink;
+    border-style: outset;
+    display: none;
+}
+
+.finalshoepic {
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.finalphonepic {
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.finalcatpic {
+    height: 400px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
