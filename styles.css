@@ -255,3 +255,8 @@ body {
     margin-right: auto;
 
 }
+
+.inogif{
+    display: block;
+    justify-content:center;
+}
